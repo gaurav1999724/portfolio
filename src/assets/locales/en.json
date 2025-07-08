@@ -1,0 +1,139 @@
+{
+    "header": {
+        "home": "home",
+        "projects": "projects",
+        "about": "about-me",
+        "contacts": "contacts"
+    },
+    "footer": {
+        "description": "Full Stack Developer based in Faridabad, India",
+        "copyright": "Copyright 2025. Made by Gaurav",
+        "media": "Media"
+    },
+    "skills": {
+        "language": "Languages",
+        "framework": "Frameworks",
+        "database": "Databases",
+        "other": "Other",
+        "tool": "Tools"
+        
+    },
+    "projects": {
+        "payomatix": {
+            "name": "Payomatix",
+            "description": "Payment Gateway Platform with 10+ PG connectors"
+        },
+        "payagency": {
+            "name": "Pay Agency",
+            "description": "API Integration for payment processing"
+        },
+        "getglobal": {
+            "name": "Get Global Group",
+            "description": "Recruitment Process Management System"
+        },
+        "khubii": {
+            "name": "Khubii",
+            "description": "Artist-focused job portal with portfolio uploads"
+        },
+        "mytripchance": {
+            "name": "My Trip Chance",
+            "description": "Travel platform for flights, hotels, and tours"
+        },
+        "takeyourgrocery": {
+            "name": "Take Your Grocery",
+            "description": "Mobile e-commerce platform for groceries"
+        },
+        "portfolio": {
+            "name": "This Portfolio",
+            "description": "My personal portfolio website"
+        },
+        "payment-gateway": {
+            "name": "Payment Gateway Integration",
+            "description": "Stripe and Razorpay payment integrations"
+        },
+        "ai-chat": {
+            "name": "AI Chat - A Chatbot",
+            "description": "AI Chat is a chatbot that allows you to chat with your files and folders in a simple and efficient way."
+        },
+        "laravel-drive": {
+            "name": "Laravel Drive - A Google Drive Clone",
+            "description": "Laravel Drive is a file management system that allows you to manage your files and folders in a simple and efficient way."
+        },
+        "ecommerce": {
+            "name": "E-commerce Solutions",
+            "description": "Complete e-commerce platforms with payment gateways"
+        },
+        "travel-platform": {
+            "name": "Travel Booking Platform",
+            "description": "Comprehensive travel booking system"
+        }
+    },
+    "pages": {
+        "home": {
+            "hero": {
+                "title": "Gaurav is a <span>Full Stack Developer</span>",
+                "description": "He crafts scalable web applications where technologies meet creativity",
+                "button": "Contact ME",
+                "status": "Open for new opportunities"
+            },
+            "quote": {
+                "text": "Code is like humor. When you have to explain it, it's bad.",
+                "author": "Cory House"
+            },
+            "projects": {
+                "title": "projects",
+                "button": "View all"
+            },
+            "skills": {
+                "title": "skills"
+            },
+            "about": {
+                "title": "about",
+                "description": [
+                    "I'm a Full Stack Developer with 4+ years of experience based in Faridabad, India. I specialize in building scalable web applications, payment gateways, and admin panels using modern technologies. ",
+                    "My expertise includes Laravel, Node.js, React.js, Angular, and AWS. I'm passionate about optimizing performance and creating exceptional user experiences. I've helped various clients establish their digital presence and always strive to learn about the newest technologies and frameworks."
+                ],
+                "button": "View all"
+            },
+            "contacts": {
+                "title": "contacts",
+                "text": "I'm interested in freelance opportunities and full-time positions. However, if you have other requests or questions, don't hesitate to contact me",
+                "media": "Message me here",
+                "donate": "Donate me here",
+                "linkedin": "Connect with me on LinkedIn",
+                "whatsapp": "Connect with me on WhatsApp"
+            }
+        },
+        "projects": {
+            "description": "All of my projects",
+            "decent": "decent",
+            "small": "small",
+            "inProgress": "unfinished"
+        },
+        "about": {
+            "description": "Who am i",
+            "about": {
+                "description": [
+                    "I'm a Full Stack Developer with 4+ years of experience based in Faridabad, India. I specialize in building scalable web applications, payment gateways, and admin panels using modern technologies. ",
+                    "My expertise includes Laravel, Node.js, React.js, Angular, and AWS. I'm passionate about optimizing performance and creating exceptional user experiences. ",
+                    "I've helped various clients establish their digital presence and always strive to learn about the newest technologies and frameworks."
+                ]
+            },
+            "skills": {
+                "title": "skills"
+            },
+            "facts": {
+                "title": "fun-facts",
+                "list": [
+                    "I have 4+ years of experience in Full Stack Development", 
+                    "I've integrated 10+ payment gateway connectors",
+                    "I've worked on multinational recruitment systems", 
+                    "I'm passionate about optimizing performance and UX"
+                ]
+            }
+        },
+        "contacts": {
+            "description": "How to contact me"
+        }
+    }
+}
