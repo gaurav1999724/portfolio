@@ -1,3 +1,5 @@
+@use "../default/variables" as vars
+
 .project
     border: 1px solid var(--gray)
 
@@ -38,5 +40,5 @@
     align-items: start
     margin-top: 48px
 
-    @media (max-width: $desktopScreen)
+    @media (max-width: vars.$desktopScreen)
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr))
